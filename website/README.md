@@ -10,8 +10,8 @@ For each form you need (5) files to process the form.
 3. You need a file to include/ combine these files see-->   <b> reg.php.</b>
 4. You need a file access/ disconnect to the database do the
 queries to enter information and transfer to a different page after processing
-the queries and ending the function(s).see (for DB connection) lines 4- 11  <b>  processregistration.php </b> <br>
-5.You need to create a valiadator using JavaScript.
+the queries and ending the function(s).see (for DB connection) lines 4- 11  <b>  processregistration.php </b> 
+5. You need to create a valiadator using JavaScript.
 
 Note: database access can be put in a different file in future.
 
